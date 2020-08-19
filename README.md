@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... code challenges, java, nodejs, express, spring-boot,
+- 🔭 I’m currently working for CEGEDIM, RACING TEAM.
 - 🌱 I’m currently learning ... java 11, and other stufs.
 - 👯 I’m looking to collaborate on ... SDLF, public apis
 - 🤔 I’m looking for help with ... cleaning the house.
