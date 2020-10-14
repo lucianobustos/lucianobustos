@@ -1,1 +1,1 @@
-read more about http://about.me/lucianobustos
+find me here http://about.me/lucianobustos
