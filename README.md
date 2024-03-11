@@ -4,4 +4,3 @@ Find me here http://about.me/lucianobustos
 
 <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/65dcccf9aec67f2e2aa16620?variant=light" alt="roadmap.sh"/></a>
 
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucianobustos' />
